@@ -1,0 +1,23 @@
+# FastAPI and server dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain dependencies
+langchain-community
+langchain-ollama
+
+# Vector store and embeddings
+faiss-cpu
+langchain-huggingface
+
+# PDF processing
+pymupdf
+
+# Tokenization
+tiktoken
+
+# Environment and utilities
+python-dotenv
+pydantic
+
